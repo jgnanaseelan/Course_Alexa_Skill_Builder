@@ -33,3 +33,6 @@ See also the list of [contributors](https://github.com/ACloudGuru-Resources/Cour
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/ACloudGuru-Resources/Course_Alexa_Skill_Builder/blob/master/LICENSE) file for details.
 
 
+## Samples
+
+
